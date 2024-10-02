@@ -107,3 +107,14 @@ function validacionUsuario(usuario) {
 validacionUsuario("usuario normal")
 .then(datos =>console.log(datos))
 .catch(error => console.log(error))
+
+//----------------------------------------------
+
+//Trabajo individual 
+// tiempo 15 minutos (hasta el recreo)
+
+
+// Consigna: Simula una operación de lectura de datos que falla el 50% del tiempo. Utiliza promesas para manejar ambos casos.   //Math.random() > 0.5
+
+// Consigna: Crea una función que devuelva una promesa que se resuelve con el resultado de una suma de dos números, después de 2 segundos.
+
